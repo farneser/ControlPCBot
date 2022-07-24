@@ -8,15 +8,7 @@ cd controlPCBot
 pip install requirements.txt
 ```
 
-### Linux / Mac OS start
-```commandline
-python3 app.py
-```
-
 ### Windows start
-```commandline
-py app.py
-```
+In the task scheduler, you need to add the app.pyw task when the user logs in, or add app.pyw to autorun  
 
-
-sorry for bad code  
+#### sorry for bad code  
